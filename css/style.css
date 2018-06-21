@@ -1,0 +1,26 @@
+* {
+  text-align: center;
+}
+
+button {
+  background-color: #341f97;
+  color: #fff;
+  font-weight: bold;
+  height: 40px;
+  text-transform: uppercase;
+  width: 100px;
+}
+
+button:hover {
+  box-shadow: 2px 2px 2px #54a0ff;
+  transition: 0.2s;
+}
+
+button:active {
+  box-shadow: 2px 2px 2px #5f27cd;
+}
+
+p {
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=style.css.map */
